@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>W8DEVENV1</Machine>
+    <WindowsUser>admin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2011-10-27T10:28:43.341</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\css\categoryPage.css">
+      <PackagePath>css\categoryPage.css</PackagePath>
+      <Modified>2011-10-27T10:27:07.501</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2011-10-27T10:27:07.508</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\css\splitPage.css">
+      <PackagePath>css\splitPage.css</PackagePath>
+      <Modified>2011-10-27T10:27:07.517</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2011-10-27T10:28:42.046</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2011-10-27T10:27:07.494</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\html\categoryPage.html">
+      <PackagePath>html\categoryPage.html</PackagePath>
+      <Modified>2011-10-27T10:27:07.528</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\html\splitPage.html">
+      <PackagePath>html\splitPage.html</PackagePath>
+      <Modified>2011-10-27T10:27:07.534</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\home.png">
+      <PackagePath>images\home.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\placeholder.png">
+      <PackagePath>images\placeholder.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\js\categoryPage.js">
+      <PackagePath>js\categoryPage.js</PackagePath>
+      <Modified>2011-10-27T10:27:07.658</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2011-10-27T10:27:07.666</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\js\splitPage.js">
+      <PackagePath>js\splitPage.js</PackagePath>
+      <Modified>2011-10-27T10:27:07.674</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\Css\ui-dark.css">
+      <PackagePath>winjs\Css\ui-dark.css</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\Css\ui-light.css">
+      <PackagePath>winjs\Css\ui-light.css</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\animations.js">
+      <PackagePath>winjs\js\animations.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\base.js">
+      <PackagePath>winjs\js\base.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\binding.js">
+      <PackagePath>winjs\js\binding.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\controls.js">
+      <PackagePath>winjs\js\controls.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\res.js">
+      <PackagePath>winjs\js\res.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\ui.js">
+      <PackagePath>winjs\js\ui.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\uicollections.js">
+      <PackagePath>winjs\js\uicollections.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+    <AppXPackagedFile Include="C:\Projects\MetroApps\src\SplitApp\SplitApp\winjs\js\wwaapp.js">
+      <PackagePath>winjs\js\wwaapp.js</PackagePath>
+      <Modified>2011-08-22T09:28:52.000</Modified>
+    </AppXPackagedFile>
+  </ItemGroup>
+</Project>

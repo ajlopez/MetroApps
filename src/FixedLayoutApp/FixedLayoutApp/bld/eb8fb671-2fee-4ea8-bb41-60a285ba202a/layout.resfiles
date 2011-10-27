@@ -1,0 +1,17 @@
+css\default.css
+default.html
+images\logo.png
+images\smalllogo.png
+images\splashscreen.png
+images\storelogo.png
+winjs\Css\ui-dark.css
+winjs\Css\ui-light.css
+winjs\js\animations.js
+winjs\js\base.js
+winjs\js\binding.js
+winjs\js\controls.js
+winjs\js\ui.js
+winjs\js\res.js
+winjs\js\uicollections.js
+winjs\js\wwaapp.js
+js\default.js
